@@ -1,4 +1,4 @@
-class ChunkData:
+class ChunkMetaData:
   def __init__(self, text : str, vector: list):
     self.text = text
     self.vector = vector
