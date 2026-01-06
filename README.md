@@ -1,8 +1,8 @@
-"# Similarity-Search-Python"
+# Similarity-Search-Python
 
 Similarity search in Python involves reading pdf, convert text into numerical vectors (embeddings) and then find the closest vectors to a given query based on similarity search using numpy library.
 
-##General Workflow
+## General Workflow
 
 ### Data Ingestion
 
